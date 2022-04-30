@@ -36,4 +36,6 @@ Open and run with Visual Studio 2022 (or your IDE of choice)
 This project is finished
 
 ## Screenshots
+![AVLTree](https://user-images.githubusercontent.com/49173127/166086326-1555f875-64ab-4e77-bb50-2bf4dabb3af7.png)
+
 ![image](https://user-images.githubusercontent.com/49173127/166085135-c2865add-1e47-4ded-8a45-1c0ed007ec9b.png)
